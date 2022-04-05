@@ -7,3 +7,10 @@
 <img width="" height="" src="./pic/네이버.PNG"></img>
 <img width="" height="" src="./pic/전화걸기.PNG"></img>
 <img width="" height="" src="./pic/메세지.PNG"></img>
+
+# 5주차
+<img width="" height="" src="./pic/소스코드1.PNG"></img>
+<img width="" height="" src="./pic/소스코드2.PNG"></img>
+<img width="" height="" src="./pic/강아지.PNG"></img>
+<img width="" height="" src="./pic/고양이.PNG"></img>
+
