@@ -9,8 +9,8 @@
 <img width="" height="" src="./pic/메세지.PNG"></img>
 
 # 5주차
-<img width="600" height="400" src="./pic/소스코드1.PNG"></img>
-<img width="600" height="400" src="./pic/소스코드2.PNG"></img>
-<img width="600" height="400" src="./pic/강아지.PNG"></img>
-<img width="600" height="400" src="./pic/고양이.PNG"></img>
+<img width="300" height="500" src="./pic/소스코드1.PNG"></img>
+<img width="300" height="500" src="./pic/소스코드2.PNG"></img>
+<img width="300" height="500" src="./pic/강아지.PNG"></img>
+<img width="300" height="500" src="./pic/고양이.PNG"></img>
 
