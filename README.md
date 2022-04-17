@@ -15,5 +15,5 @@
 <img width="300" height="500" src="./pic/고양이.PNG"></img>
 
 # 6주차
-<img width="300" height="500" src="./pic/넓이1.PNG"></img>
+<img width="300" height="500" src="./pic/넓이 1.PNG"></img>
 <img width="300" height="500" src="./pic/높이1.PNG"></img>
