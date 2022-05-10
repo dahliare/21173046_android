@@ -17,3 +17,11 @@
 # 6주차
 <img width="300" height="500" src="./pic/넓이 1.PNG"></img>
 <img width="300" height="500" src="./pic/높이1.PNG"></img>
+
+# 10주차
+<img width="300" height="500" src="./pic/메뉴 코드.PNG"></img>
+<img width="300" height="500" src="./pic/메인 코드.PNG"></img>
+<img width="300" height="500" src="./pic/메뉴1.PNG"></img>
+<img width="300" height="500" src="./pic/메뉴2.PNG"></img>
+<img width="300" height="500" src="./pic/메뉴3.PNG"></img>
+<img width="300" height="500" src="./pic/메뉴4.PNG"></img>
